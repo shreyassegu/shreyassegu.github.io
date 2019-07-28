@@ -2,8 +2,8 @@
 name: "Shreyas Segu"
 title: "Shreyas Segu"
 description: "My learning journey documented"
-logo: "assets/images/logo.png"
-favicon: "assets/images/logo.png"
+logo: "assets/images/shreyas.png"
+favicon: "assets/images/S.png"
 baseurl: ""
 # google_analytics: ""
 # disqus: ""
@@ -16,7 +16,7 @@ authors:
   shreyas:
     name: Shreyas Segu
     display_name: Shreyas Segu
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    avatar: assets/images/avatar.png
     email: shreyas.segu@gmail.com
     web: https://shreyassegu.github.io
     twitter: https://twitter.com/ShreyasSegu
