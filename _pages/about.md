@@ -5,21 +5,21 @@ permalink: /about
 ---
 
 <body class="">
-  <div class="h-50 d-flex align-items-center bg-dark">
+  <div class="h-50 d-flex align-items-center">
     <div class="container">
       <div class="row">
         <div class="mx-auto text-center col-md-6">
-          <h1 class="display-1 text-white">Shreyas Segu</h1>
-          <p class="lead text-primary">I love learning about new things and I get things done </p>
+          <h1 class="display-3">Shreyas Segu</h1>
+          <p class="lead">I love learning about new things and I get things done </p>
         </div>
       </div>
     </div>
   </div>
   <div class="py-5">
     <div class="container">
-      <div class="row mb-3">
-        <div class="text-center mx-auto p-4 bg-secondary col-lg-6 col-md-10">
-          <h2 class="text-white">Full Stack Development</h2>
+      <div class="row mb-1">
+        <div class="text-center mx-auto p-4 col-lg-6 col-md-10">
+          <h2 class="display-4">Full Stack Development</h2>
         </div>
       </div>
       <div class="row">
@@ -67,9 +67,9 @@ permalink: /about
   </div>
   <div class="py-5">
     <div class="container">
-      <div class="row mb-3">
-        <div class="text-center mx-auto p-4 bg-secondary col-lg-6 col-md-10">
-          <h2 class="text-white">Education</h2>
+      <div class="row mb-1">
+        <div class="text-center mx-auto p-4 col-lg-6 col-md-10">
+          <h2 class="display-4">Education</h2>
         </div>
       </div>
       <div class="row">
