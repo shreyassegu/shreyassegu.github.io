@@ -5,16 +5,6 @@ permalink: /about
 ---
 
 <body class="">
-  <div class="h-50 d-flex align-items-center">
-    <div class="container">
-      <div class="row">
-        <div class="mx-auto text-center col-md-6">
-          <h1 class="display-3">Shreyas Segu</h1>
-          <p class="lead">I love learning about new things and I get things done </p>
-        </div>
-      </div>
-    </div>
-  </div>
   <div class="py-5">
     <div class="container">
       <div class="row mb-1">
