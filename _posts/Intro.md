@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Education must also train one for quick, resolute and effective thinking."
+title:  "Introduction Blog"
 categories: [ tutorial ]
 image: https://images.unsplash.com/photo-1558625628-8b7292e0c335?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
 beforetoc: "This blog is one of my ways to improve my Technical skills as well as my writing sills, especially now that I'm starting out my journey as a software developer. I'm planning to utilize my time properly to make the knowledge I gain into something which will be engraved in my mind"
