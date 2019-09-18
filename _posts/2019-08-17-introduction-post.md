@@ -10,18 +10,21 @@ comments: false
 ---
 > “If you want to learn something, read about it. If you want to understand something, write about it. If you want to master something, teach it.” -Yogi Bhajan
 
+## Learn through Teaching
 
-## Learn through teaching
+We might feel that we know a certain topic or a subject well, until we try to teach the same to someone who has no idea about it. We realize that the knowledge we had isn't clear at all, we lack knowledge in depth. It is said that pride gets in the way of good learning, same as ego, But we need to admit sometimes that 'I don't know', Realization is a key factor for performance and improvement.
 
-We might feel that we know a certain topic or a subject well, until we try to teach the same to someone who has no idea about it. We realize that the knowledge we had isn't clear at all, we lack knowledge in depth, and we come across questions that we would have never thought of if we weren't teaching it to someone else.
+I'm experiencing the same as I go through writing this blog, I just know that learning through teaching is very effective, I'm not able to elaborate on that fact.
 
-## Information gained
+But, some things are a given bonus, we get to evaluate ourselves on our current understanding of a subject
 
-The information which we gain after the process of teaching **sticks with us**, and the quality of knowledge is very different as well, the information which we gain will be deeper, we can understand and relate to certain decisions and grow intelectually rather than gaining raw information.
+## Information Gained
+
+The information which we gain after the process of teaching **sticks with us**, and the quality of knowledge is very different as well, the information which we gain will be deeper, we can understand and relate to certain decisions and grow intellectually rather than gaining raw information.
 
 ## Expertise into a field
 
-Writing a book requires skill and expertise in a field, in order to write a book the author must have spent so much time researching about a particular subject or field to gain enough knowledge to embody all the information in a digestable package for everyone to understand.
+Writing a book requires skill and expertise in a field, in order to write a book the author must have spent so much time researching about a particular subject or field to gain enough knowledge to embody all the information in a digestible package for everyone to understand.
 
 >**Famously called the 10,000 Hour rule** - The key to achieving world-class expertise in any skill, is, to a large extent, a matter of practicing the correct way, for a total of around 10,000 hours
 
