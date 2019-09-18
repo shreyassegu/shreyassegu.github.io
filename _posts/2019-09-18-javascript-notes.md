@@ -31,6 +31,7 @@ This is a new syntax which was introduced in ES6 and fixes some of the problems 
 - Does not get hoisted
 - Block scoped
 - Cannot be used before declaration
+
 This allows the variable to have expected and predictable behavior, allows developers to write clean and easy to debug code
 ```js
 let message = "one";
@@ -78,6 +79,7 @@ console.log(helloWorld()); //Hello world!
 - If you are not passing any arguments to the arrow function, you need to have the empty pair of parenthesis
 - If you are passing only one argument, no need for parenthesis
 - If there is only one statement, you don't need to use return statement
+
 ## "**this**" keyword in arrow functions
 The keyword "this" in normal functions always keeps changing context depending on where it is being called.
 
