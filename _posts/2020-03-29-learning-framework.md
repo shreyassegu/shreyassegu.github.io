@@ -37,8 +37,8 @@ These are some of the things which I have picked up when we, an entirely new tea
 
 ## Documentation
 - Gather all the documentation which is available.
-- Perpare a new set of your personal documentation as you go along.
-- Compare it with the reference docummentation / setup regular sessions with the project mangers to make sure that you're understanding is correct and it will resolve any misconceptions which you might have.
+- Prepare a new set of your personal documentation as you go along.
+- Compare it with the reference documentation / setup regular sessions with the project mangers to make sure that you're understanding is correct and it will resolve any misconceptions which you might have.
 - This gives you a chance to evaluate the existing documentation as well as you have a fresh set of eyes and can identify any shortcomings easily and you can improve the documentation as well. Remember we are trying to make contributions as early as possible.
 
 ## Understand the Environment and CI/CD
@@ -49,4 +49,4 @@ These are some of the things which I have picked up when we, an entirely new tea
 - Understand the differences between the pipelines of the different environments.
 - Talk about the release process, who does it and who takes ownership of the release.
 
-I hope this information might be useful to many engineers who want to get going faster, and this mighr help your learning process a lot more streamlined and efficient. I will add on to this document whenever I learn new things which will be helpful for everybody else.
+I hope this information might be useful to many engineers who want to get going faster, and this might help your learning process a lot more streamlined and efficient. I will add on to this document whenever I learn new things which will be helpful for everybody else.
