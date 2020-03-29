@@ -3,16 +3,16 @@ layout: post
 title:  "Personal Learning Framework"
 categories: [ Tutorials ]
 image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1280&q=60 
-beforetoc: "Getting into a new project can be daunting, and uncertain. Learning enough about the complex system which is already in place and understanding enough to make a contribution especially with respect to a software engineer is easier said than done.
-
-Getting up and running very quickly, and proving the value which you bring to the team is especially important in the current agile work environment ,where the development cycles are small and the number of things which are being added to the system all the time is huge. In this fast pace it is most important to get your things together and make meaningful contributions to the team as soon as possible.
-
-These are some of the things which I have picked up when we, an entirely new team had to own the entire system in a short duration of time. These are the tips which I picked up from my manager who guided us in doing these things to ensure that we could make meaningful contributions in a very short time and we had no knowledge gaps so that we won't be stuck in any part of the development process. I call this the **framework of learning** (*from a software engineer's perspective*)."
+beforetoc: ""
 featured: true
 toc: true
 comments: false
 ---
+Getting into a new project can be daunting, and uncertain. Learning enough about the complex system which is already in place and understanding enough to make a contribution especially with respect to a software engineer is easier said than done.
 
+Getting up and running very quickly, and proving the value which you bring to the team is especially important in the current agile work environment ,where the development cycles are small and the number of things which are being added to the system all the time is huge. In this fast pace it is most important to get your things together and make meaningful contributions to the team as soon as possible.
+
+These are some of the things which I have picked up when we, an entirely new team had to own the entire system in a short duration of time. These are the tips which I picked up from my manager who guided us in doing these things to ensure that we could make meaningful contributions in a very short time and we had no knowledge gaps so that we won't be stuck in any part of the development process. I call this the **framework of learning** (*from a software engineer's perspective*).
 ## Understand what you're getting into
 - Talk and setup sessions with your product manager/owner, or anybody who has been working on it for a while to get a clear understanding of what the system is actually doing.
 - Understanding the business point of view is equally important as the technical side of things.
