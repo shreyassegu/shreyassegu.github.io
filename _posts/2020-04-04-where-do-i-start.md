@@ -3,12 +3,14 @@ layout: post
 title:  "How do I start?"
 categories: [ Tutorials ]
 image: https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1280&q=60
-beforetoc: "In this article I'll share what are the things which I have realized are the most important things to master in order to become a "Great Software Engineer". Full disclosure, I've been working in the software industry for almost a year now, and these are the things which I have observed over the course of my day to day routine and after interacting with a bunch of people.I'm assuming, you are fresh into the Engineering Degree, eager to learn how to build software and get a great job. Well these are the things which you would need to do in order to stand out!. Be the sheep that stands out from the flock."
+beforetoc: ""
 featured: true
 toc: true
 comments: false
 ---
+In this article I'll share what are the things which I have realized are the most important things to master in order to become a "Great Software Engineer". Full disclosure, I've been working in the software industry for almost a year now, and these are the things which I have observed over the course of my day to day routine and after interacting with a bunch of people.
 
+I'm assuming, you are fresh into the Engineering Degree, eager to learn how to build software and get a great job. Well these are the things which you would need to do in order to stand out!. Be the sheep that stands out from the flock.
 ## Problem Solving
 
 Starting off with the most important skill to develop. This is a never ending process and you should continue to keep doing throughout your professional life. I suggest starting this first. What do I mean by problem solving? Go get familiar with any programming language, open HackerRank, LeetCode or CodeKatas, get into solving the problems from that platform ASAP.
