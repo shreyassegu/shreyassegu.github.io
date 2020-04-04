@@ -20,12 +20,15 @@ Problem solving is essentially figuring out how to solve the given problem with 
 ## Ok so now you want to build software? Where do you start?
 
 Figure out what you want to build, it could either be a website, a desktop tool or a game. This is a stage where you need to figure out what are the tools which you need in order to build what you want. Google is your friend, try to follow through a tutorial or a course, copy whatever they are doing and make it work. At this stage you are still experimenting, figuring out why do you need so many tools and technologies, figuring out how everything works and so on. Follow the instructors step by step, ask a lot of questions and make it work, you will learn something every time you build something and eventually you'll start to make tweaks to the existing things which you would have built from those tutorials, customize it and give it your flavors. Keep repeating this cycle until you get a rough idea on what is going on and it will give you a good foundation of what to do for your personal projects.
+
 The important thing here is to never stop building things, even if they are silly, and don't belong to a particular genre of products, you build a website, you build a game and you build something else. Never stop the process of experimentation as everything you learn along the way will always be valuable.
+
 A good way to start the process is to gather your friends, build something together and figure stuff out together as a group it will be a lot of fun! Start going to coding competitions and hackathons with this group and you will end up learning everything at a very fast rate.
 
 ## Obsessing over which language to learn
 Learning a lot of languages might seem like a good thing to add to your CV but, what is the use of me knowing c, cpp, c#, java, javascript, go, rust, python, etc etc etc...... What are you achieving here?
 At the end of the day languages are merely tools which help you solve a problem, one language is good at solving a particular type of problem compared to another language. Figuring out how to solve a problem is more important than saying I know 15 programming languages.
+
 Once you figure out how to solve a particular problem, you can easily swap out languages, think of it this way, Java and C# are two "screwdrivers", one being manufactured by Oracle and One being manufactured by Microsoft, either of them can be used to solve a given problem but there will be pros and cons for both. The Java might be too expensive to maintain and C# one doesn't give much freedom. This is an entirely different discussion altogether which is out of scope of the current discussion. The gist here is don't spend too much time on deciding these things right now, the current focus is building software for practice, nothing more. Once you experiment with all the different tools which are available you might like the feel of one tool better compared to others, so you can maybe build an expertise on that. The most important thing is keeping an open mind while learning.
 
 ## Asking the right questions
